@@ -1,0 +1,30 @@
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.exe
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.deps.json
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.runtimeconfig.json
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.dll
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.pdb
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.csproj.AssemblyReference.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.AssemblyInfoInputs.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.AssemblyInfo.cs
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.csproj.CoreCompileInputs.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.dll
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\refint\Aula03Colecoes.dll
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.pdb
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.genruntimeconfig.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula03Colecoes\obj\Debug\net7.0\ref\Aula03Colecoes.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.exe
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.deps.json
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.runtimeconfig.json
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.pdb
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.AssemblyInfoInputs.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.AssemblyInfo.cs
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\refint\Aula03Colecoes.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.pdb
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.genruntimeconfig.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade03\Aula03Colecoes\obj\Debug\net7.0\ref\Aula03Colecoes.dll
